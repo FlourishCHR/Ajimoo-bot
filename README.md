@@ -1,5 +1,6 @@
 # Ajimoo
  Discord bot
+ 
  Contains: Music Bot, User and Server information, Timezone updates...etc
 
 SETUP A VIRTUAL ENVIRONMENT
