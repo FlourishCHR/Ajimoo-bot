@@ -1,0 +1,2 @@
+# Ajimoo-bot
+Discord bot
